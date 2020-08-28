@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nvdinh-hello185": "^1.0.1"
+    "nvdinh-hello": "^1.0.2"
   }
 }
